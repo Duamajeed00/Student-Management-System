@@ -1,0 +1,20 @@
+{
+  "name": "code-with-fajur-student-management-system",
+  "version": "1.0.0",
+  "description": "This project is based on Object Oriented Programmimng",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DUA MAJEED",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
